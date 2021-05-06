@@ -3,11 +3,12 @@
     "BIDSVersion": "1.5.1",
     "License": "CC0",
     "Authors": [
-        "Gergely Somogyi",
-        "David Hlatky"
+        "Gergely Somogyi"
     ],
     "HowToAcknowledge": "",
     "Funding": [],
-    "ReferencesAndLinks": ["https://www.biorxiv.org/content/10.1101/2020.04.08.031534v1"],
+    "ReferencesAndLinks": [
+        "https://www.biorxiv.org/content/10.1101/2020.04.08.031534v1"
+    ],
     "DatasetDOI": ""
 }
