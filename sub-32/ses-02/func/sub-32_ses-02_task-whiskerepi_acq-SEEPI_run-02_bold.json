@@ -1,0 +1,12 @@
+{
+    "Modality": "MR",
+    "MagneticFieldStrength": "9.4T",
+    "Manufacturer": "Agilent",
+    "RepetitionTime": 2,
+    "StimulationStartTime": "118",
+    "StimulationOnTime": "30",
+    "StimulationOffTime": "60",
+    "StimulationBLocks": "6",
+    "TaskName": "whiskerepi",
+    "SequenceType": "SE-EPI"
+}
