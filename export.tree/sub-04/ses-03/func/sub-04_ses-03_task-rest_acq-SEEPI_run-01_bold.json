@@ -1,8 +1,0 @@
-{
-    "Modality": "MR",
-    "MagneticFieldStrength": "9.4T",
-    "Manufacturer": "Agilent",
-    "RepetitionTime": 1,
-    "TaskName": "rest",
-    "SequenceType": "SE-EPI"
-}
